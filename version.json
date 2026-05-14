@@ -1,6 +1,6 @@
 {
-  "version": "3.0.0",
-  "updateUrl": "https://github.com/Meimei-magpie/USwords-privacy/releases/download/v3.0.0/aebfcddddcbaf-v3.0.0.apk",
-  "whatsNew": "新增更新弹窗错误",
+  "version": "4.0.0",
+  "updateUrl": "https://github.com/Meimei-magpie/USwords-privacy/releases/download/v4.0.0/aebfcddddcbaf-v4.0.0.apk",
+  "whatsNew": "新增更新日期计算逻辑",
   "forceUpdate": false
 }
